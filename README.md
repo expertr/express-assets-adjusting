@@ -21,3 +21,11 @@ express_assets_adjusting.start(app);
 ...
 
 ```
+
+```bash
+Go to https://localhost:<port>
+```
+
+```bash
+Enjoy 🎉
+```
